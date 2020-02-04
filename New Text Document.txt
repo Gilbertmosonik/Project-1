@@ -1,1 +1,3 @@
+Day 1
 Iam learning git for the first time
+Day 2: Something has changed
